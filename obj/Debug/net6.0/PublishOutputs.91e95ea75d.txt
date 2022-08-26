@@ -1,0 +1,11 @@
+C:\octopuslocal\testoctopus\bin\Debug\net6.0\publish\testoctopus.exe
+C:\octopuslocal\testoctopus\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\octopuslocal\testoctopus\bin\Debug\net6.0\publish\appsettings.json
+C:\octopuslocal\testoctopus\bin\Debug\net6.0\publish\testoctopus.dll
+C:\octopuslocal\testoctopus\bin\Debug\net6.0\publish\testoctopus.deps.json
+C:\octopuslocal\testoctopus\bin\Debug\net6.0\publish\testoctopus.runtimeconfig.json
+C:\octopuslocal\testoctopus\bin\Debug\net6.0\publish\testoctopus.pdb
+C:\octopuslocal\testoctopus\bin\Debug\net6.0\publish\Microsoft.OpenApi.dll
+C:\octopuslocal\testoctopus\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\octopuslocal\testoctopus\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\octopuslocal\testoctopus\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KZrBRqSKSqI2I1hzaVvEUTPjhTo2GRsOUfTe4mY06Mo=",
+  "Source": "testoctopus",
+  "BasePath": "_content/testoctopus",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
